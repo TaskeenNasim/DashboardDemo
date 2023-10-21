@@ -33,8 +33,8 @@ import order from "../Images/order.png";
 import sales from "../Images/sales.png";
 import Grid from "@mui/material/Grid";
 
-import abstract from "../images/abstract.jpg";
-import sarphens from "../images/sarphens.jpg";
+import abstract from "../Images/abstract.jpg";
+import sarphens from "../Images/sarphens.jpg";
 const drawerWidth = 240;
 const iconMapping = {
   Dashboard: <DashboardIcon />,
